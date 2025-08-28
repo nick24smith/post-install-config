@@ -24,14 +24,22 @@ End User Ticket Portal:  http://localhost/osTicket
 
 <img width="1015" height="387" alt="image" src="https://github.com/user-attachments/assets/c691ab64-8948-445e-ad87-a6b89810ad53" />
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+Agent Panel vs Admin Panel - Agent Panel is used by support agents to handle tickets. Admin Panel gives you full control of osTicket.
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+<img width="1188" height="860" alt="image" src="https://github.com/user-attachments/assets/ba386f7a-2eab-48ec-b500-db9f740d5854" />
+
+<img width="1196" height="431" alt="image" src="https://github.com/user-attachments/assets/4faa749a-e170-442f-8d30-c952d085addd" />
+
+Configure Roles: Admin Panel -> Agents -> Roles. We're going to create a Supreme Admin, give it permission to everything in the "tickets" and "tasks" tabs.
+
+<img width="410" height="43" alt="image" src="https://github.com/user-attachments/assets/1b677aff-e2fd-4c63-b2c9-4895b6872bd0" />
+
+
+<img width="1206" height="513" alt="image" src="https://github.com/user-attachments/assets/e0d28a5a-efac-402e-ae70-fe1a7c5f6cd2" />
+
+<img width="471" height="236" alt="image" src="https://github.com/user-attachments/assets/16df4774-4945-43a8-bdb5-539d4bf9a5c2" />
+
+<img width="619" height="467" alt="image" src="https://github.com/user-attachments/assets/31ec8115-01c6-4593-86d1-75e5e6e032b8" />
+
+<img width="509" height="304" alt="image" src="https://github.com/user-attachments/assets/c1544b6a-dd14-4d1a-9a10-bb3f916e11e2" />
+
