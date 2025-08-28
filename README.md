@@ -52,4 +52,13 @@ Configure Departments: Admin Panel -> Agents -> Departments. We're creating a Su
 
 <img width="497" height="252" alt="image" src="https://github.com/user-attachments/assets/573fe999-bd9c-41bf-8ff6-de48a7c563e6" />
 
-Configure Teams: Admin Panel -> Agents -> Teams. 
+Configure Teams: Admin Panel -> Agents -> Teams. In this example, we're creating an 
+"Online Banking" team. 
+
+<img width="1175" height="225" alt="image" src="https://github.com/user-attachments/assets/4a5a1793-b566-4375-9474-692ec16ef83c" />
+
+<img width="614" height="351" alt="image" src="https://github.com/user-attachments/assets/9dafd55d-886b-4de6-9d26-63f19fd23852" />
+
+Allow everyone to create tickets: Admin Panel -> Settings -> User Settings. Make sure that “Require registration and login to create tickets” is UNCHECKED.
+
+<img width="850" height="646" alt="image" src="https://github.com/user-attachments/assets/79beee3d-b5f2-491a-91bb-5626d6b4e6e3" />
