@@ -43,3 +43,13 @@ Configure Roles: Admin Panel -> Agents -> Roles. We're going to create a Supreme
 
 <img width="509" height="304" alt="image" src="https://github.com/user-attachments/assets/c1544b6a-dd14-4d1a-9a10-bb3f916e11e2" />
 
+Configure Departments: Admin Panel -> Agents -> Departments. We're creating a Support/System Admins Department (SysAdmins).
+
+<img width="1052" height="116" alt="image" src="https://github.com/user-attachments/assets/88c8128d-cc6e-4ae6-86fa-c5ed36c2b51c" />
+
+<img width="700" height="899" alt="image" src="https://github.com/user-attachments/assets/459d22e6-9e73-466c-8b9e-df5cde24a05f" />
+>
+
+<img width="497" height="252" alt="image" src="https://github.com/user-attachments/assets/573fe999-bd9c-41bf-8ff6-de48a7c563e6" />
+
+Configure Teams: Admin Panel -> Agents -> Teams. 
