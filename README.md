@@ -69,3 +69,7 @@ Configure Agents (workers) -> Admin Panel -> Agents -> Add New. We're making 2 a
 
 <img width="897" height="408" alt="image" src="https://github.com/user-attachments/assets/d5cf0abc-ef60-406c-8806-4b23de2b3da7" />
 
+<img width="460" height="240" alt="image" src="https://github.com/user-attachments/assets/52fac57c-b5c0-494d-aff8-ccb74dddf162" />
+
+<img width="540" height="286" alt="image" src="https://github.com/user-attachments/assets/c2b424ca-831e-4c9d-a435-5aba3024fe52" />
+
