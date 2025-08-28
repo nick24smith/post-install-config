@@ -62,3 +62,10 @@ Configure Teams: Admin Panel -> Agents -> Teams. In this example, we're creating
 Allow everyone to create tickets: Admin Panel -> Settings -> User Settings. Make sure that “Require registration and login to create tickets” is UNCHECKED.
 
 <img width="850" height="646" alt="image" src="https://github.com/user-attachments/assets/79beee3d-b5f2-491a-91bb-5626d6b4e6e3" />
+
+Configure Agents (workers) -> Admin Panel -> Agents -> Add New. We're making 2 agents, one for the SysAdmins Dept. and one for the Support Dept.
+
+<img width="1071" height="278" alt="image" src="https://github.com/user-attachments/assets/f91b66e8-f903-4f90-aa73-acb28608f009" />
+
+<img width="897" height="408" alt="image" src="https://github.com/user-attachments/assets/d5cf0abc-ef60-406c-8806-4b23de2b3da7" />
+
