@@ -63,7 +63,7 @@ Allow everyone to create tickets: Admin Panel -> Settings -> User Settings. Make
 
 <img width="850" height="646" alt="image" src="https://github.com/user-attachments/assets/79beee3d-b5f2-491a-91bb-5626d6b4e6e3" />
 
-Configure Agents (workers) -> Admin Panel -> Agents -> Add New. We're making 2 agents, one for the SysAdmins Dept. and one for the Support Dept.
+Configure Agents (workers) -> Admin Panel -> Agents -> Add New. We're making 2 agents, one for the SysAdmins Dept. and one for the Support Dept. Below is Jane for SysAdmins. Follow the same steps for the Support Dept. agent. 
 
 <img width="1071" height="278" alt="image" src="https://github.com/user-attachments/assets/f91b66e8-f903-4f90-aa73-acb28608f009" />
 
@@ -72,4 +72,10 @@ Configure Agents (workers) -> Admin Panel -> Agents -> Add New. We're making 2 a
 <img width="460" height="240" alt="image" src="https://github.com/user-attachments/assets/52fac57c-b5c0-494d-aff8-ccb74dddf162" />
 
 <img width="540" height="286" alt="image" src="https://github.com/user-attachments/assets/c2b424ca-831e-4c9d-a435-5aba3024fe52" />
+
+<img width="295" height="138" alt="image" src="https://github.com/user-attachments/assets/9e3b5bae-7dfc-4429-8d21-96542b72f0af" />
+
+Configure Users (Customers): Swap to Agent Panel -> Users -> Add New
+
+<img width="952" height="252" alt="image" src="https://github.com/user-attachments/assets/ad554b87-3eff-4052-b8a4-107d72e24243" />
 
