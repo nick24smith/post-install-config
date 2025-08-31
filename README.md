@@ -63,7 +63,7 @@ Allow everyone to create tickets: Admin Panel -> Settings -> User Settings. Make
 
 <img width="850" height="646" alt="image" src="https://github.com/user-attachments/assets/79beee3d-b5f2-491a-91bb-5626d6b4e6e3" />
 
-Configure Agents (workers) -> Admin Panel -> Agents -> Add New. We're making 2 agents, one for the SysAdmins Dept. and one for the Support Dept. Below is Jane for SysAdmins. Follow the same steps for the Support Dept. agent. 
+Configure Agents (workers) -> Admin Panel -> Agents -> Add New. We're making 2 agents, one for the SysAdmins Dept. and one for the Support Dept. Below is Jane for SysAdmins. Follow the same steps for the Support Dept. agent except give the Support Dept. VIEW Access instead of Supreme Admin. 
 
 <img width="1071" height="278" alt="image" src="https://github.com/user-attachments/assets/f91b66e8-f903-4f90-aa73-acb28608f009" />
 
@@ -81,8 +81,26 @@ Configure Users (Customers): Swap to Agent Panel -> Users -> Add New
 
 <img width="801" height="359" alt="image" src="https://github.com/user-attachments/assets/b1d1d4ea-0810-4c9e-b8e3-fb8eac7ae511" />
 
-<img width="1180" height="232" alt="image" src="https://github.com/user-attachments/assets/f5a90017-78d2-4fff-8e51-deacc9743ae3" />
-
 Configure SLA: Admin Panel -> Manage -> SLA. Sev-A (Grace Period: 1 Hour, Schedule: 24/7), Sev-B (Grace Period: 4 Hours, Schedule: 24/7), Sev-C (Grace Period: 8 Hours, Schedule: Business Hours M-F)
 
+<img width="1180" height="232" alt="image" src="https://github.com/user-attachments/assets/f5a90017-78d2-4fff-8e51-deacc9743ae3" />
+
 <img width="968" height="389" alt="image" src="https://github.com/user-attachments/assets/c68056a8-361c-45a9-afcc-4d731f3602a2" />
+
+<img width="496" height="196" alt="image" src="https://github.com/user-attachments/assets/833f324e-d122-446d-aee6-a2fdf691fa59" />
+
+<img width="503" height="199" alt="image" src="https://github.com/user-attachments/assets/a7b181d9-61e9-476a-9a97-ba9bc40afa76" />
+
+Configure Help Topics (This is for users when they create tickets): Admin Panel -> Manage -> Help Topics -> Add New. The list of topics we're creating are: Business Critical Outage, Personal Computer Issues, Equipment Request, Password Reset, and Other. 
+
+<img width="539" height="317" alt="image" src="https://github.com/user-attachments/assets/b47de7d6-9631-4d7a-9c91-42ab5c507ac5" />
+
+<img width="455" height="211" alt="image" src="https://github.com/user-attachments/assets/dccdadce-818d-4257-9c5e-6dd255fdd08f" />
+
+<img width="519" height="137" alt="image" src="https://github.com/user-attachments/assets/c02d6b3b-b325-4aa9-9667-d76b9b64aa0a" />
+
+<img width="515" height="142" alt="image" src="https://github.com/user-attachments/assets/6c858b1e-df5e-42fa-8998-4460c10d79c2" />
+
+<img width="511" height="126" alt="image" src="https://github.com/user-attachments/assets/17cbe7cb-7849-420f-acb9-e71eabf1d294" />
+
+<img width="902" height="386" alt="image" src="https://github.com/user-attachments/assets/b5bb3a71-6a35-472a-8945-53b2c2af36d3" />
