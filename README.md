@@ -79,3 +79,10 @@ Configure Users (Customers): Swap to Agent Panel -> Users -> Add New
 
 <img width="952" height="252" alt="image" src="https://github.com/user-attachments/assets/ad554b87-3eff-4052-b8a4-107d72e24243" />
 
+<img width="801" height="359" alt="image" src="https://github.com/user-attachments/assets/b1d1d4ea-0810-4c9e-b8e3-fb8eac7ae511" />
+
+<img width="1180" height="232" alt="image" src="https://github.com/user-attachments/assets/f5a90017-78d2-4fff-8e51-deacc9743ae3" />
+
+Configure SLA: Admin Panel -> Manage -> SLA. Sev-A (Grace Period: 1 Hour, Schedule: 24/7), Sev-B (Grace Period: 4 Hours, Schedule: 24/7), Sev-C (Grace Period: 8 Hours, Schedule: Business Hours M-F)
+
+<img width="968" height="389" alt="image" src="https://github.com/user-attachments/assets/c68056a8-361c-45a9-afcc-4d731f3602a2" />
